@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TouchMud</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_register">注册</string>
+</resources>

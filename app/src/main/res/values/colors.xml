@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="login_background">#000000</color>
+    <color name="login_tile_text">#0FFF0F</color>
+    <color name="login_status_text">#0FFF0F</color>
+    <color name="account_password_text">#FFFFFF</color>
+    <color name="button_text">#FF4081</color>
+    <color name="button_backgorund">#3F51B5</color>
+</resources>
